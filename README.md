@@ -13,3 +13,5 @@ If we open a smart plug, we will see a power circuit, control circuit, microcont
 
 
 
+
+
